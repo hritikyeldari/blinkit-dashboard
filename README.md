@@ -1,90 +1,90 @@
-# 🛒 Blinkit Sales Dashboard (Power BI)
+# 🛒 Blinkit Sales Dashboard | Power BI
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project presents an interactive **Blinkit Sales Dashboard** built using **Power BI** to analyze sales performance, customer behavior, and outlet insights.
-The dashboard helps in understanding key business metrics and supports data-driven decision-making.
-
----
-
-## 🎯 Objectives
-
-* Analyze total sales and average sales performance
-* Evaluate outlet performance based on size and location
-* Identify top-performing product categories
-* Understand customer ratings and item visibility
-* Track sales trends over time
+This project showcases an interactive **sales analytics dashboard** for Blinkit, built using **Power BI**.
+It analyzes sales performance, outlet efficiency, and product-level trends to support **data-driven business decisions**.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🎯 Business Objectives
 
-* **Power BI** – Data visualization and dashboard creation
-* **Microsoft Excel** – Data cleaning and preprocessing
-* **SQL (Basic)** – Data querying (if applicable)
+* Monitor **overall sales performance** and key KPIs
+* Compare **outlet performance** by size and location
+* Identify **top-selling categories and products**
+* Analyze **customer ratings and item visibility**
+* Track **yearly sales trends**
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## 🛠️ Tools & Technologies
+
+* **Power BI** – Dashboard development & visualization
+* **Microsoft Excel** – Data cleaning & preprocessing
+* **SQL (Basic)** – Data extraction (if applicable)
+
+---
+
+## 📊 Key Metrics (KPIs)
 
 * **Total Sales:** $1.20M
 * **Average Sales:** $141
-* **Number of Items:** 8523
+* **Total Items:** 8,523
 * **Average Rating:** 3.9
 
 ---
 
-## 📈 Dashboard Features
+## 📈 Dashboard Capabilities
 
-* Interactive filters (Outlet Location, Size, Item Type)
-* Sales trend analysis over years
-* Outlet size and location comparison
-* Product category performance analysis
+* Interactive slicers (Outlet Location, Size, Item Type)
+* Sales trend analysis over time
+* Outlet size & location comparison
+* Category-wise performance breakdown
 * Fat content distribution insights
-* Dynamic visuals for better understanding
+* Dynamic visuals for quick decision-making
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Dashboard](screenshot.png)
+![Blinkit Dashboard](screenshot.png)
 
 ---
 
 ## 🔍 Key Insights
 
-* Tier 3 outlets generate the highest sales contribution
-* Supermarket Type 1 has the maximum number of items and sales
-* Fruits and Snacks categories contribute significantly to total sales
-* Medium-sized outlets dominate overall performance
-* Consistent sales growth observed over the years
+* **Tier 3 outlets** contribute the highest share of total sales
+* **Supermarket Type 1** leads in both sales and item count
+* **Fruits & Snacks** are top-performing categories
+* **Medium-sized outlets** drive the majority of revenue
+* Sales show **steady growth over time**
 
 ---
 
-## 🚀 How to Use
+## 📂 Repository Structure
 
-1. Download the `.pbix` file from this repository
-2. Open it using **Power BI Desktop**
-3. Interact with filters and visuals to explore insights
-
----
-
-## 📂 Project Structure
-
-* `BlinkIT Dashboard.pbix` – Power BI dashboard file
-* `screenshot.png` – Dashboard preview image
-* `README.md` – Project documentation
+* `BlinkIT Dashboard.pbix` → Power BI file
+* `screenshot.png` → Dashboard preview
+* `README.md` → Project documentation
 
 ---
 
-## 💼 Use Case
+## 🚀 Getting Started
 
-This project is useful for:
+1. Download the `.pbix` file
+2. Open in **Power BI Desktop**
+3. Use filters to explore insights interactively
 
-* Data Analysts
-* Business Analysts
-* Retail industry insights
-* Portfolio showcase for data visualization skills
+---
+
+## 💼 Business Value
+
+This dashboard helps stakeholders:
+
+* Identify **high-performing outlets and products**
+* Improve **inventory and sales strategies**
+* Enhance **customer satisfaction insights**
+* Make **data-backed business decisions**
 
 ---
 
@@ -92,13 +92,18 @@ This project is useful for:
 
 **Hritik Yeladari**
 📧 [yeladarihritik@gmail.com](mailto:yeladarihritik@gmail.com)
-🔗 LinkedIn: https://linkedin.com/hritikyeldari
-💻 GitHub: https://github.com/hritikyeldari
+🔗 https://linkedin.com/hritikyeldari
+💻 https://github.com/hritikyeldari
 
 ---
 
-## ⭐ Acknowledgement
+## ⭐ Project Purpose
 
-This project is created for learning and portfolio purposes to demonstrate data analytics and visualization skills using Power BI.
+This project is part of my **data analytics portfolio**, demonstrating skills in:
+
+* Data cleaning
+* Data visualization
+* Business insight generation
+* Dashboard design
 
 ---
